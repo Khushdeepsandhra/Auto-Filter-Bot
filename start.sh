@@ -8,5 +8,5 @@ else
 fi
 cd /Zsearcher
 pip3 install -U -r requirements.txt
-echo "Starting Zsearcherbot....🔥"
+echo "Starting Pbautofilter....🔥"
 python3 bot.py
