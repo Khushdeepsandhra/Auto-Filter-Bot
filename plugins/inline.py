@@ -93,9 +93,9 @@ def get_reply_markup(query):
         [
             InlineKeyboardButton('♻️ Sᴇᴀʀᴄʜ Aɢᴀɪɴ ♻️', switch_inline_query_current_chat=query)
         ],[
-            InlineKeyboardButton('🔮ᴄʜᴀɴɴᴇʟ🔮', url='https://t.me/CYNITEBOTS')
+            InlineKeyboardButton('🔮ᴄʜᴀɴɴᴇʟ🔮', url='https://t.me/PB_ChaNneL_BoTs_2022')
         ],[
-            InlineKeyboardButton('🥳 υѕє ιи α gяουρ 👥', url='http://t.me/ZsearcherBot?startgroup=true')
+            InlineKeyboardButton('🥳 υѕє ιи α gяουρ 👥', url='http://t.me/Pbautofilter_bot?startgroup=true')
         ]
         ]
     return InlineKeyboardMarkup(buttons)
